@@ -1,6 +1,7 @@
 <h1 align="center">Hola, mi nombre es Alan Silcher</h1>
 <h3 align="center">Soy un apasionado desarrollador full stack de Argentina</h3>
-<img aling="right" alt="Coding" width="400px" src="https://www.tecnoschool.com.ar/img/cursos-programacion/comienzo-a-programar-con-python.gif">
+<img style="float: right;" alt="Coding" width="400px" src="https://www.tecnoschool.com.ar/img/cursos-programacion/comienzo-a-programar-con-python.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alansilcher&label=Profile%20views&color=0e75b6&style=flat" alt="alansilcher" /> </p>
 
