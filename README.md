@@ -1,15 +1,20 @@
 <h1 align="center">Hola, mi nombre es Alan Silcher</h1>
 <h3 align="center">Soy un apasionado desarrollador full stack de Argentina</h3>
-<img style="float: right;" alt="Coding" width="400px" src="https://www.tecnoschool.com.ar/img/cursos-programacion/comienzo-a-programar-con-python.gif">
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h1>Hola, mi nombre es Alan Silcher</h1>
+    <h3>Soy un apasionado desarrollador full stack de Argentina</h3>
+    <ul>
+      <li>🔭 Actualmente estoy trabajando en <a href="https://client-pf-seven.vercel.app/home">Linking Future</a></li>
+      <li>🌱 Actualmente estoy aprendiendo MongoDB</li>
+      <li>📫 Puedes contactarme por el siguiente correo <a href="mailto:silcheralan@gmail.com">silcheralan@gmail.com</a></li>
+    </ul>
+  </div>
+  <div>
+    <img style="float: right;" alt="Coding" width="400px" src="https://www.tecnoschool.com.ar/img/cursos-programacion/comienzo-a-programar-con-python.gif">
+  </div>
+</div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alansilcher&label=Profile%20views&color=0e75b6&style=flat" alt="alansilcher" /> </p>
-
-- 🔭 Actualmente estoy trabajando en [Linking Future](https://client-pf-seven.vercel.app/home)
-
-- 🌱 Actualmente estoy aprendiendo **MongoDB**
-
-- 📫 Puedes contactarme por el siguiente correo **silcheralan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
