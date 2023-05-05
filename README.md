@@ -3,7 +3,7 @@
  
 - 🔭 Actualmente estoy trabajando en [Linking Future](https://client-pf-seven.vercel.app/home)
 
-- 🌱 Actualmente estoy aprendiendo **MongoDB**
+- 🌱 Actualmente estoy aprendiendo **AWS**
 
 - 📫 Puedes contactarme por el siguiente correo **silcheralan@gmail.com**
 
